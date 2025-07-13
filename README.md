@@ -12,7 +12,6 @@ This repository contains a full-stack insurance solution:
 /backend-springboot → Spring Boot API backend
 
 
-
 ## 🚀 Stack Overview
 
 | Layer        | Stack                         |
@@ -24,10 +23,16 @@ This repository contains a full-stack insurance solution:
 ## 🔧 How to Run
 
 Each folder contains a README with setup instructions:
-- [`flutter-app/README.md`](flutter-app/README.md)
-- [`frontend-react/README.md`](frontend-react/README.md)
-- [`backend-springboot/README.md`](backend-springboot/README.md)
-
+insurance_app_showcase/
+├── flutter-app/
+│   ├── README.md  ← explains app features + tech used
+│   └── /screenshots/ (optional)
+├── backend-springboot/
+│   └── README.md  ← explains architecture + endpoints (no real code)
+├── frontend-react/
+│   └── README.md  ← explains UI features + stack
+│   └── /screenshots/ (optional)
+├── README.md  ← general overview, this file.
 ---
 
 Made with ❤️ by Ricardo Ramos – [Panama 🇵🇦]
