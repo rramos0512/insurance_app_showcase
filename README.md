@@ -1,3 +1,4 @@
+
 # 🛡️ Insurance App Showcase – Full Stack Project
 
 This repository contains a full-stack insurance solution:
@@ -5,34 +6,47 @@ This repository contains a full-stack insurance solution:
 - Web dashboard in React + Vite
 - RESTful backend in Spring Boot
 
+---
+
 ## 📦 Project Structure
 
-/flutter-app → Flutter mobile app
-/frontend-react → React + Vite frontend
-/backend-springboot → Spring Boot API backend
+```
+insurance_app_showcase/
+├── flutter-app/           → Flutter mobile app
+│   └── README.md          → Features + tech stack
+│   └── /screenshots/      → UI previews (optional)
+├── backend-springboot/    → Spring Boot backend
+│   └── README.md          → Architecture + endpoints
+├── frontend-react/        → React + Vite frontend
+│   └── README.md          → UI + functionality overview
+│   └── /screenshots/      → Dashboard previews (optional)
+├── README.md              → This overview file
+```
 
+---
 
 ## 🚀 Stack Overview
 
-| Layer        | Stack                         |
-|--------------|-------------------------------|
-| Mobile App   | Flutter, Dart                 |
-| Web Frontend | React.js, Vite, Tailwind CSS  |
-| Backend API  | Spring Boot, Java, MySQL      |
+| Layer         | Stack                        |
+|---------------|------------------------------|
+| Mobile App    | Flutter, Dart                |
+| Web Frontend  | React.js, Vite, Tailwind CSS |
+| Backend API   | Spring Boot, Java, MySQL     |
+
+---
 
 ## 🔧 How to Run
 
-Each folder contains a README with setup instructions:
-insurance_app_showcase/
-├── flutter-app/
-│   ├── README.md  ← explains app features + tech used
-│   └── /screenshots/ (optional)
-├── backend-springboot/
-│   └── README.md  ← explains architecture + endpoints (no real code)
-├── frontend-react/
-│   └── README.md  ← explains UI features + stack
-│   └── /screenshots/ (optional)
-├── README.md  ← general overview, this file.
+Each folder includes a `README.md` with setup and project-specific instructions.
+
 ---
 
-Made with ❤️ by Ricardo Ramos – [Panama 🇵🇦]
+## 📣 Note
+
+🛡️ This is a **public showcase**. Full source code is private to protect sensitive business logic and data.
+
+---
+
+Made with ❤️ by **Ricardo Ramos**  
+📍 Panama 🇵🇦 | 🌐 Remote Ready  
+📧 rramosb@yahoo.com
