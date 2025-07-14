@@ -17,7 +17,7 @@ insurance_app_showcase/
 │   └── /screenshots/      → UI previews
 ├── backend-springboot/    → Spring Boot backend
 │   └── README.md          → Architecture + endpoints
-│   └── /screenshots/      → Backend Ide 
+│   └── /screenshots/      → Backend IDE
 ├── frontend-react/        → React + Vite frontend
 │   └── README.md          → UI + functionality overview
 │   └── /screenshots/      → Dashboard previews
