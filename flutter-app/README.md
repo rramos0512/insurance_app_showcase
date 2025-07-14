@@ -22,8 +22,27 @@ This folder showcases the **Flutter mobile app** I developed for a small insuran
 - Status indicators (active/inactive)
 
 ## 🖼️ Screenshots
-Screenshots of the app UI will be added here (blurred if needed).
+### 🏠 Welcome Screen
+![Welcome 1](screenshots/welcome1.png)
+![Welcome 2](screenshots/welcome2.png)
+![Welcome 3](screenshots/welcome3.png)
+![Welcome 4](screenshots/welcome4.png)
+![Welcome 5](screenshots/welcome5.png)
 
+### 🏠 Login Screen
+![Login 1](screenshots/login1.png)
+![Login 2](screenshots/login2.png)
+![Login 3](screenshots/login3.png)
+![Login 4](screenshots/login4.png)
+![Login 5](screenshots/login5.png)
+
+### 🏠 Home Screen
+![Home 1](screenshots/home1.png)
+![Home 2](screenshots/home2.png)
+![Home 3](screenshots/home3.png)
+![Home 4](screenshots/home4.png)
+![Download a file](screenshots/download.png)
+![Share description](screenshots/shared.png)
 ---
 
 *This showcase structure highlights the architecture and features without exposing any proprietary logic.*

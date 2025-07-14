@@ -14,12 +14,13 @@ This repository contains a full-stack insurance solution:
 insurance_app_showcase/
 ├── flutter-app/           → Flutter mobile app
 │   └── README.md          → Features + tech stack
-│   └── /screenshots/      → UI previews (optional)
+│   └── /screenshots/      → UI previews
 ├── backend-springboot/    → Spring Boot backend
 │   └── README.md          → Architecture + endpoints
+│   └── /screenshots/      → Backend Ide 
 ├── frontend-react/        → React + Vite frontend
 │   └── README.md          → UI + functionality overview
-│   └── /screenshots/      → Dashboard previews (optional)
+│   └── /screenshots/      → Dashboard previews
 ├── README.md              → This overview file
 ```
 

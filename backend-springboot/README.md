@@ -22,6 +22,11 @@ This folder outlines the **Spring Boot REST API backend** powering the insurance
 - Role-based access (admin vs client)
 - MySQL persistence layer
 
+## 📸 Screenshots
+
+### 🏠 IDE & Source Screen
+![IDE Screen](screenshots/ide.png)
+
 ---
 
 *This showcase structure highlights the architecture and features without exposing any proprietary logic.*
